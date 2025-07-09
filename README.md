@@ -1,15 +1,15 @@
 <h1 align="center">Olá! Eu sou o Ronaldo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Estudante+de+Computação;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Ciencia da Computacao
-- 🌱 Atualmente aprendendo **React, Node.js e SQL**
+- 🎓 Estudante de Ciência da Computacao
+- 🌱 Atualmente aprendendo **Java, Python e C#**
 - 🚀 Buscando estágio na área de Desenvolvimento Web
 - 💬 Me pergunte sobre: HTML, CSS, JS, APIs REST
 
