@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Ronaldo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,5 +46,12 @@
 
 ## 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seulinkedin)](https://linkedin.com/in/seulinkedin)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+<p align="center">
+  <a href="https://linkedin.com/in/ronaldo0belo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ronaldobelo1909@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
