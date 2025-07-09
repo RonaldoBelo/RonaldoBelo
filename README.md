@@ -8,10 +8,9 @@
 
 ## 👨‍💻 Sobre mim
 
+- 🚀 Desenvolvedor Full-Stack
 - 🎓 Estudante de Ciência da Computação  
-- 🌱 Atualmente aprendendo **Java, Python e C#**  
-- 🚀 Buscando estágio na área de Desenvolvimento Web  
-- 💬 Me pergunte sobre: HTML, CSS, JS, APIs REST  
+- 🌱 Atualmente aprendendo **Java, Python e C/C++**  
 
 ---
 
