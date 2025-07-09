@@ -10,7 +10,7 @@
 
 - 🚀 Desenvolvedor Full-Stack
 - 🎓 Estudante de Ciência da Computação (3º Período)
-- 🌱 Atualmente aprendendo **Java, Python e C/C++**  
+- 🌱 Principais Linguagens são **Java, Python e C/C++**  
 
 ---
 
