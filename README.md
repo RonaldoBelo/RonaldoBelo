@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🚀 Desenvolvedor Full-Stack
-- 🎓 Estudante de Ciência da Computação  
+- 🎓 Estudante de Ciência da Computação (3º Período)
 - 🌱 Atualmente aprendendo **Java, Python e C/C++**  
 
 ---
